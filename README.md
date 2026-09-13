@@ -3,7 +3,7 @@
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.7.0-blue.svg)
 ![PyPI - status/down](https://img.shields.io/badge/status-down-red)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/theandychung/discord-weibo-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/reversewrld/discord-weibo-bot)
 
 This [Discord](https://discordapp.com/) Bot monitors the user defined specific [Weibo](https://www.weibo.com/) account(s) using proxy ip. If any monitored Weibo account made new posts or reposts, it would pass the contents to discord through discord Webhook (including images). The Discord bot will be hosted on [Heroku](https://www.heroku.com/what) server.
 
