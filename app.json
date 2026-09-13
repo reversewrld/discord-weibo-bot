@@ -18,9 +18,12 @@
       "description": "The Weibo ID(s) you want to track with this bot, use (,) to split. Ex: 123, 456, 103"
     }
   },
-  "buildpacks": [
+"buildpacks": [
     {
       "url": "https://github.com/dmathieu/heroku-buildpack-submodules"
+    },
+    {
+      "url": "heroku/python"
     }
   ]
 }
